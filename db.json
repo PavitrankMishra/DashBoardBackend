@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "James Anderson",
+      "age": "29",
+      "email": "james@gmail.com",
+      "role": "Write",
+      "status": "Active"
+    },
+    {
+      "id": 2,
+      "name": "Pavitrank Mishra",
+      "age": "22",
+      "email": "pavitrank2002@gmail.com",
+      "role": "Write",
+      "status": "Active"
+    },
+    {
+      "id": 3,
+      "name": "Jimmy",
+      "age": "22",
+      "email": "jimmy@gmail.com",
+      "role": "Write",
+      "status": "Inactive"
+    }
+  ]
+}
